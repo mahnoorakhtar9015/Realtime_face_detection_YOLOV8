@@ -59,7 +59,7 @@ face_detection_app/
 
 
 **YOLOv8 Real-Time Detection Example**
-![YOLOv8 Detection](assets/1.jpg) 
+![YOLOv8 Detection](assets/1.png) 
 
 
 ## ⚙️ Installation
