@@ -1,0 +1,2 @@
+               epoch,      train/box_loss,      train/obj_loss,      train/cls_loss,   metrics/precision,      metrics/recall,     metrics/mAP_0.5,metrics/mAP_0.5:0.95,        val/box_loss,        val/obj_loss,        val/cls_loss,               x/lr0,               x/lr1,               x/lr2
+9,0.028645,0.021981,0,0.88643,0.82299,0.89246,0.57901,0.029172,0.017686,0,0.00208,0.00208,0.00208
